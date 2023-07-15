@@ -9,7 +9,7 @@ export default {
     extend: {
       colors: {
         day: {
-          DEFAULT: config.lightBackground || '#ffffff'
+          DEFAULT: config.lightBackground || '#fdf8e8'
         },
         night: {
           DEFAULT: config.darkBackground || '#111827'
