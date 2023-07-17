@@ -55,7 +55,9 @@
   overflow-wrap: break-word;
 }
 .notion,
-.notion-text,
+.notion-text{
+  text-align: justify;
+}
 .notion-quote,
 .notion-h-title {
   @apply p-0;
