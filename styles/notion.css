@@ -57,6 +57,7 @@
 .notion,
 .notion-text{
   text-align: justify;
+  line-height: 1.8;
 }
 .notion-quote,
 .notion-h-title {
