@@ -1,7 +1,7 @@
 const BLOG = {
   title: '四叠半岛',
   author: '我一直在玩',
-  email: 'upudding@126.com',
+  email: 'wyzzwist@gmail.com',
   link: 'https://wyzzw.vercel.app',
   description: 'Colorless green ideas sleep furiously.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
@@ -18,7 +18,7 @@ const BLOG = {
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
-  socialLink: 'https://alive.bar/web/@wyzzw',
+  socialLink: '',
   seo: {
     keywords: ['Blog', 'Website', 'Notion'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
